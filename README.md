@@ -1,2 +1,2 @@
 # weather_project
-this app helps to predicts the weather of a particular place or a location
+This is a weather Dashboard. It helps to find the current weather, 7 day forecast and 24 Forecast
